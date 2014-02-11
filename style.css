@@ -312,6 +312,7 @@ h3{
 	margin:0;
 	padding:0 5px;
 	width:360px;
+	color: #67788d;
 }
 .jd-d span{
 	display:block;
@@ -319,7 +320,7 @@ h3{
 	padding:0 0 10px 0;
 	margin-bottom:10px;
 	border-bottom:1px solid #d2dde1;
-	color:#7c9ba8;
+/* 	color:#7c9ba8; */
 	font-size:22px;
 	font-family:"微软雅黑", Arial, Helvetica, sans-serif;
 }
