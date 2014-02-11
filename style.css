@@ -2,11 +2,11 @@
 /* CSS Document */
 
 body{
-	margin:0; 
-	padding:0; 
-	background-color:#FFF; 
-	font-size:12px; 
-	font-family:Arial, Helvetica, sans-serif; 
+	margin:0;
+	padding:0;
+	background-color:#FFF;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
 	line-height:20px;
 	color:#999999;
 }
@@ -30,10 +30,10 @@ h3{
   margin-right: 20px;
 }
 .home-top{
-	margin:0 auto; 
-	padding:0; 
-	background:url(images/home-top.jpg); 
-	width:914px; 
+	margin:0 auto;
+	padding:0;
+	background:url(images/home-top.jpg);
+	width:914px;
 	height:182px;
 }
 .home-top span.sp1{
@@ -82,8 +82,8 @@ h3{
 	background:url(images/banner.jpg);
 	width:914px;
 	height:230px;
-	margin:0 auto; 
-	padding:0; 
+	margin:0 auto;
+	padding:0;
 }
 .home-contant{
 	margin:0 auto;
@@ -105,7 +105,7 @@ h3{
 	border-bottom:1px solid #d2dde1;
 	color:#7c9ba8;
 	font-size:22px;
-	font-family:微软雅黑, Arial, Helvetica, sans-serif;
+	font-family:"微软雅黑", Arial, Helvetica, sans-serif;
 }
 .home-contant-d p{
     background:url(images/line-1.jpg) no-repeat 115px 0;
@@ -170,10 +170,10 @@ h3{
 }
 /*二级页top*/
 .sec-top{
-	margin:0 auto; 
-	padding:0; 
-	background:url(images/sec-top.jpg); 
-	width:914px; 
+	margin:0 auto;
+	padding:0;
+	background:url(images/sec-top.jpg);
+	width:914px;
 	height:182px;
 }
 .sec-top span.sp1{
@@ -232,7 +232,7 @@ h3{
 	width:714px;
 }
 .sec-contant img{
-	float:right; 
+	float:right;
 	margin:0 0 0 10px;
 }
 .sec-contant span{
@@ -248,57 +248,57 @@ h3{
 	background:url(images/banner-jr.jpg);
 	width:914px;
 	height:82px;
-	margin:0 auto; 
-	padding:0; 
+	margin:0 auto;
+	padding:0;
 }
 .jd-banner{
 	background:url(images/banner-jd.jpg);
 	width:914px;
 	height:82px;
-	margin:0 auto; 
-	padding:0; 
+	margin:0 auto;
+	padding:0;
 }
 .my-banner{
 	background:url(images/banner-my.jpg);
 	width:914px;
 	height:82px;
-	margin:0 auto; 
-	padding:0; 
+	margin:0 auto;
+	padding:0;
 }
 .dc-banner{
 	background:url(images/banner-dc.jpg);
 	width:914px;
 	height:82px;
-	margin:0 auto; 
-	padding:0; 
+	margin:0 auto;
+	padding:0;
 }
 .wh-banner{
 	background:url(images/banner-wh.jpg);
 	width:914px;
 	height:82px;
-	margin:0 auto; 
-	padding:0; 
+	margin:0 auto;
+	padding:0;
 }
 .lx-banner{
 	background:url(images/banner-lx.jpg);
 	width:914px;
 	height:82px;
-	margin:0 auto; 
-	padding:0; 
+	margin:0 auto;
+	padding:0;
 }
 .zs-banner{
 	background:url(images/banner-zs.jpg);
 	width:914px;
 	height:82px;
-	margin:0 auto; 
-	padding:0; 
+	margin:0 auto;
+	padding:0;
 }
 .gc-banner{
 	background:url(images/banner-gc.jpg);
 	width:914px;
 	height:82px;
-	margin:0 auto; 
-	padding:0; 
+	margin:0 auto;
+	padding:0;
 }
 /*酒店、餐厅，分两栏 */
 .jd-sec{
@@ -320,7 +320,7 @@ h3{
 	border-bottom:1px solid #d2dde1;
 	color:#7c9ba8;
 	font-size:22px;
-	font-family:微软雅黑, Arial, Helvetica, sans-serif;
+	font-family:"微软雅黑", Arial, Helvetica, sans-serif;
 }
 .jd-d p{
   text-indent:2em;
