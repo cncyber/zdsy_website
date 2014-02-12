@@ -1,166 +1,192 @@
 ﻿@charset "utf-8";
-/* CSS Document */
 
-body{
+/* CSS Document */
+body {
 	margin:0;
 	padding:0;
 	background-color:#FFF;
 	font-size:12px;
-	font-family:Arial, Helvetica, sans-serif;
+	font-family:Arial,Helvetica,sans-serif;
 	line-height:20px;
-	color:#999999;
+	color:#999;
 }
-.space{
+
+.space {
 	clear:both;
 	line-height:0;
 	font-size:0;
 }
-img{
-  border:none;
+
+img {
+	border:none;
 }
+
 /*
 h3{
   font-size: 16px;
 }
 */
-#mar{
-    margin-right:51px;
+#mar {
+	margin-right:51px;
 }
-#mar20{
-  margin-right: 20px;
+
+#mar20 {
+	margin-right:20px;
 }
-.home-top{
+
+.home-top {
 	margin:0 auto;
 	padding:0;
 	background:url(images/home-top.jpg);
 	width:914px;
 	height:182px;
 }
-.home-top span.sp1{
+
+.home-top span.sp1 {
 	display:block;
 	padding:8px 0 36px 700px;
 	width:214px;
 	font-size:12px;
 	color:#6d7174;
 }
-.home-top span.sp1 a{
+
+.home-top span.sp1 a {
 	font-size:12px;
 	color:#6d7174;
 	text-decoration:none;
 	margin:0 10px;
 }
-.home-top span.sp1 a:hover{
+
+.home-top span.sp1 a:hover {
 	font-size:12px;
-	color:#000000;
+	color:#000;
 	text-decoration:none;
 }
-.home-top span.sp2{
+
+.home-top span.sp2 {
 	display:block;
 	padding:0 0 10px 775px;
 	font-size:12px;
 	color:#6d7174;
 	line-height:12px;
 }
-.home-top span.sp3{
+
+.home-top span.sp3 {
 	display:block;
 	padding:26px 0 0 440px;
 	font-size:12px;
-	color:#000000;
+	color:#000;
 }
-.home-top span.sp3 a{
+
+.home-top span.sp3 a {
 	font-size:12px;
-	color:#000000;
+	color:#000;
 	text-decoration:none;
 	margin:0 19px;
 }
-.home-top span.sp3 a:hover{
+
+.home-top span.sp3 a:hover {
 	font-size:12px;
-	color:#999999;
+	color:#999;
 	text-decoration:none;
 }
-.home-banner{
+
+.home-banner {
 	background:url(images/banner.jpg);
 	width:914px;
 	height:230px;
 	margin:0 auto;
 	padding:0;
 }
-.home-contant{
+
+.home-contant {
 	margin:0 auto;
 	padding:50px 0;
 	width:914px;
 	background:url(images/home-contant.jpg) center 0 no-repeat #FFF;
 }
-.home-contant-d{
+
+.home-contant-d {
 	float:left;
 	margin:0;
 	padding:0 5px;
 	width:260px;
 }
-.home-contant-d span{
+
+.home-contant-d span {
 	display:block;
 	width:260px;
-	padding:0 0 10px 0;
+	padding:0 0 10px;
 	margin-bottom:10px;
 	border-bottom:1px solid #d2dde1;
 	color:#7c9ba8;
 	font-size:22px;
-	font-family:"微软雅黑", Arial, Helvetica, sans-serif;
+	font-family:"微软雅黑",Arial,Helvetica,sans-serif;
 }
-.home-contant-d p{
-    background:url(images/line-1.jpg) no-repeat 115px 0;
-    text-indent:2em;
-    margin:0;
+
+.home-contant-d p {
+	background:url(images/line-1.jpg) no-repeat 115px 0;
+	text-indent:2em;
+	margin:0;
 	padding:0;
 	width:260px;
 }
-.home-contant-d p img{
-    float:left;
+
+.home-contant-d p img {
+	float:left;
 	vertical-align:top;
 	margin-right:5px;
 }
-.home-contant-d a.more{
-    float:right;
-    font-size:12px;
+
+.home-contant-d a.more {
+	float:right;
+	font-size:12px;
 	color:#7c9ba8;
-	font-weight:bold;
+	font-weight:700;
 	text-decoration:underline;
-	font-family:Arial, Helvetica, sans-serif;
+	font-family:Arial,Helvetica,sans-serif;
 }
-.home-contant-d a.more:hover{
-    font-size:12px;
+
+.home-contant-d a.more:hover {
+	font-size:12px;
 	color:#7c9ba8;
-	font-weight:bold;
+	font-weight:700;
 	text-decoration:none;
 }
-.foot{
+
+.foot {
 	margin:0;
 	padding:0;
 	background:url(images/foot-bg.jpg) repeat-x 0 0 #7c9ba8;
 }
-.foot-contant{
+
+.foot-contant {
 	margin:0 auto;
 	padding:36px 10px;
 	width:894px;
 }
-.foot-contant span{
+
+.foot-contant span {
 	display:block;
 	font-size:12px;
 	color:#a6bdc3;
 	line-height:0;
 }
-.foot-contant span a{
+
+.foot-contant span a {
 	margin:0 5px;
 	font-size:12px;
 	color:#fff;
 	text-decoration:underline;
 }
-.foot-contant span a:hover{
+
+.foot-contant span a:hover {
 	font-size:12px;
 	color:#fff;
 	text-decoration:none;
 }
-.foot-contant p{
+
+.foot-contant p {
 	text-align:right;
 	padding:0;
 	margin:0;
@@ -168,57 +194,66 @@ h3{
 	color:#FFF;
 	line-height:0;
 }
+
 /*二级页top*/
-.sec-top{
+.sec-top {
 	margin:0 auto;
 	padding:0;
 	background:url(images/sec-top.jpg);
 	width:914px;
 	height:182px;
 }
-.sec-top span.sp1{
+
+.sec-top span.sp1 {
 	display:block;
 	padding:8px 0 36px 700px;
 	width:214px;
 	font-size:12px;
 	color:#6d7174;
 }
-.sec-top span.sp1 a{
+
+.sec-top span.sp1 a {
 	font-size:12px;
 	color:#6d7174;
 	text-decoration:none;
 	margin:0 10px;
 }
-.sec-top span.sp1 a:hover{
+
+.sec-top span.sp1 a:hover {
 	font-size:12px;
-	color:#000000;
+	color:#000;
 	text-decoration:none;
 }
-.sec-top span.sp2{
+
+.sec-top span.sp2 {
 	display:block;
 	padding:0 0 10px 775px;
 	font-size:12px;
 	color:#6d7174;
 	line-height:12px;
 }
-.sec-top span.sp3{
+
+.sec-top span.sp3 {
 	display:block;
-	padding:26px 0px 0px 440px;
+	padding:26px 0 0 440px;
 	font-size:12px;
-	color:#000000;
+	color:#000;
 }
-.sec-top span.sp3 a{
+
+.sec-top span.sp3 a {
 	font-size:12px;
-	color:#000000;
+	color:#000;
 	text-decoration:none;
 	margin:0 19px;
 }
-.sec-top span.sp3 a:hover{
+
+.sec-top span.sp3 a:hover {
 	font-size:12px;
-	color:#999999;
+	color:#999;
 	text-decoration:none;
 }
-.sec-line2{
+
+.sec-line2 {
 	width:844px;
 	margin:0 auto;
 	padding:20px 20px 5px 0;
@@ -226,112 +261,128 @@ h3{
 	background:url(images/line-2.jpg) no-repeat right bottom;
 	text-align:right;
 }
-.sec-contant{
-  color: #67788d;
+
+.sec-contant {
+	color:#67788d;
 	margin:0 auto;
-	padding:10px 100px 50px 100px;
+	padding:10px 100px 50px;
 	width:714px;
 }
-.sec-contant img{
+
+.sec-contant img {
 	float:right;
 	margin:0 0 0 10px;
 }
-.sec-contant span{
+
+.sec-contant span {
 	width:500px;
 	display:block;
 	float:left;
-	padding:0 0 20px 0;
+	padding:0 0 20px;
 	margin:0;
 	color:#67788d;
 	border-bottom:1px dashed #c8cfd3;
 }
-.jr-banner{
+
+.jr-banner {
 	background:url(images/banner-jr.jpg);
 	width:914px;
 	height:82px;
 	margin:0 auto;
 	padding:0;
 }
-.jd-banner{
+
+.jd-banner {
 	background:url(images/banner-jd.jpg);
 	width:914px;
 	height:82px;
 	margin:0 auto;
 	padding:0;
 }
-.my-banner{
+
+.my-banner {
 	background:url(images/banner-my.jpg);
 	width:914px;
 	height:82px;
 	margin:0 auto;
 	padding:0;
 }
-.dc-banner{
+
+.dc-banner {
 	background:url(images/banner-dc.jpg);
 	width:914px;
 	height:82px;
 	margin:0 auto;
 	padding:0;
 }
-.wh-banner{
+
+.wh-banner {
 	background:url(images/banner-wh.jpg);
 	width:914px;
 	height:82px;
 	margin:0 auto;
 	padding:0;
 }
-.lx-banner{
+
+.lx-banner {
 	background:url(images/banner-lx.jpg);
 	width:914px;
 	height:82px;
 	margin:0 auto;
 	padding:0;
 }
-.zs-banner{
+
+.zs-banner {
 	background:url(images/banner-zs.jpg);
 	width:914px;
 	height:82px;
 	margin:0 auto;
 	padding:0;
 }
-.gc-banner{
+
+.gc-banner {
 	background:url(images/banner-gc.jpg);
 	width:914px;
 	height:82px;
 	margin:0 auto;
 	padding:0;
 }
+
 /*酒店、餐厅，分两栏 */
-.jd-sec{
+.jd-sec {
 	margin:0 auto;
-	padding:10px 100px 50px 100px;
+	padding:10px 100px 50px;
 	width:814px;
 }
-.jd-d{
+
+.jd-d {
 	float:left;
 	margin:0;
 	padding:0 5px;
 	width:360px;
-	color: #67788d;
+	color:#67788d;
 }
-.jd-d span{
+
+.jd-d span {
 	display:block;
 	width:360px;
-	padding:0 0 10px 0;
+	padding:0 0 10px;
 	margin-bottom:10px;
 	border-bottom:1px solid #d2dde1;
 /* 	color:#7c9ba8;  看起来不需要了*/
 	font-size:22px;
-	font-family:"微软雅黑", Arial, Helvetica, sans-serif;
+	font-family:"微软雅黑",Arial,Helvetica,sans-serif;
 }
-.jd-d p{
-  text-indent:2em;
-  margin:0;
+
+.jd-d p {
+	text-indent:2em;
+	margin:0;
 	padding:0;
 	width:350px;
 }
-.jd-d p img{
-  float:left;
+
+.jd-d p img {
+	float:left;
 	vertical-align:top;
 	margin-right:5px;
 }
