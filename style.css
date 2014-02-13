@@ -21,17 +21,8 @@ img {
 	border:none;
 }
 
-/*
-h3{
-  font-size: 16px;
-}
-*/
 #mar {
-	margin-right:51px;
-}
-
-#mar20 {
-	margin-right:20px;
+	margin-right:11px;
 }
 
 .home-top {
@@ -99,46 +90,47 @@ h3{
 	padding:0;
 }
 
-.home-contant {
+.home-content {
 	margin:0 auto;
 	padding:50px 0;
 	width:914px;
-	background:url(images/home-contant.jpg) center 0 no-repeat #FFF;
+	background:url(images/home-content.jpg) center 0 no-repeat #FFF;
 }
 
-.home-contant-d {
+.home-content-d {
 	float:left;
 	margin:0;
 	padding:0 5px;
-	width:260px;
+	width:210px;
 }
 
-.home-contant-d span {
+.home-content-d span {
 	display:block;
-	width:260px;
+	width:210px;
 	padding:0 0 10px;
 	margin-bottom:10px;
 	border-bottom:1px solid #d2dde1;
 	color:#7c9ba8;
+	text-shadow: 2px 2px 5px rgba(0,0,0,0.47);
 	font-size:22px;
 	font-family:"微软雅黑",Arial,Helvetica,sans-serif;
 }
 
-.home-contant-d p {
+.home-content-d p {
 	background:url(images/line-1.jpg) no-repeat 115px 0;
 	text-indent:2em;
 	margin:0;
 	padding:0;
-	width:260px;
+	width:210px;
 }
 
-.home-contant-d p img {
+.home-content-d p img {
 	float:left;
 	vertical-align:top;
 	margin-right:5px;
 }
 
-.home-contant-d a.more {
+.home-content-d a.more {
 	float:right;
 	font-size:12px;
 	color:#7c9ba8;
@@ -147,7 +139,7 @@ h3{
 	font-family:Arial,Helvetica,sans-serif;
 }
 
-.home-contant-d a.more:hover {
+.home-content-d a.more:hover {
 	font-size:12px;
 	color:#7c9ba8;
 	font-weight:700;
@@ -160,33 +152,33 @@ h3{
 	background:url(images/foot-bg.jpg) repeat-x 0 0 #7c9ba8;
 }
 
-.foot-contant {
+.foot-content {
 	margin:0 auto;
 	padding:36px 10px;
 	width:894px;
 }
 
-.foot-contant span {
+.foot-content span {
 	display:block;
 	font-size:12px;
 	color:#a6bdc3;
 	line-height:0;
 }
 
-.foot-contant span a {
+.foot-content span a {
 	margin:0 5px;
 	font-size:12px;
 	color:#fff;
 	text-decoration:underline;
 }
 
-.foot-contant span a:hover {
+.foot-content span a:hover {
 	font-size:12px;
 	color:#fff;
 	text-decoration:none;
 }
 
-.foot-contant p {
+.foot-content p {
 	text-align:right;
 	padding:0;
 	margin:0;
@@ -262,23 +254,23 @@ h3{
 	text-align:right;
 }
 
-.sec-contant {
+.sec-content {
 	color:#67788d;
 	margin:0 auto;
 	padding:10px 100px 50px;
 	width:714px;
 }
 
-.sec-contant p {
+.sec-content p {
 	text-indent:2em;
 }
 
-.sec-contant img {
+.sec-content img {
 	float:right;
 	margin:0 0 0 10px;
 }
 
-.sec-contant span {
+.sec-content span {
 	width:500px;
 	display:block;
 	float:left;
