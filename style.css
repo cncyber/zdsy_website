@@ -64,7 +64,7 @@ img {
 
 .home-top span.sp3 {
 	display:block;
-	padding:26px 0 0 440px;
+	padding:26px 0px 0px 440px;
 	font-size:12px;
 	color:#000;
 }
@@ -345,6 +345,7 @@ img {
 }
 
 /*酒店、餐厅，分两栏 */
+/*
 .jd-sec {
 	margin:0 auto;
 	padding:10px 100px 50px;
@@ -366,7 +367,7 @@ img {
 	margin-bottom:10px;
 	border-bottom:1px solid #d2dde1;
 /* 	color:#7c9ba8;  看起来不需要了*/
-	font-size:22px;
+/*	font-size:22px;
 	font-family:"微软雅黑",Arial,Helvetica,sans-serif;
 }
 
@@ -382,3 +383,4 @@ img {
 	vertical-align:top;
 	margin-right:5px;
 }
+*/
