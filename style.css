@@ -64,7 +64,7 @@ img {
 
 .home-top span.sp3 {
 	display:block;
-	padding:26px 0px 0px 440px;
+	padding:26px 0 0 440px;
 	font-size:12px;
 	color:#000;
 }
@@ -111,7 +111,7 @@ img {
 	margin-bottom:10px;
 	border-bottom:1px solid #d2dde1;
 	color:#7c9ba8;
-	text-shadow: 2px 2px 5px rgba(0,0,0,0.47);
+	text-shadow:2px 2px 5px rgba(0,0,0,0.47);
 	font-size:22px;
 	font-family:"微软雅黑",Arial,Helvetica,sans-serif;
 }
@@ -259,6 +259,10 @@ img {
 	margin:0 auto;
 	padding:10px 100px 50px;
 	width:714px;
+}
+
+.sec-content a {
+	color:#67788d;
 }
 
 .sec-content p {
